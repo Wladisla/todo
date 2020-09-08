@@ -1,0 +1,27 @@
+li {
+  list-style-type: none;
+}
+button {
+  size: 20px;
+  height: 20px;
+}
+.star-btn {
+  color: yellow;
+  background: yellow;
+}
+.modern {
+  background: red;
+}
+form {
+  text-align: center;
+}
+.todo-container {
+  text-align: center;
+}
+#wrapper {
+  display: flexbox;
+  border-color: black;
+  border-width: 50px;
+  flex-grow: 3;
+  width: 500px;
+}
